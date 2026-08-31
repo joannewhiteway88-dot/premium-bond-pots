@@ -1,13 +1,3 @@
-Premium Bonds Pots — v4 PWA
+Premium Bonds Pots v5
 
-This version adds:
-- Backup status and age indicator
-- Installable PWA manifest and icons
-- Offline service worker cache
-
-Security model:
-- No NS&I or bank credentials are stored.
-- Financial tracker data remains in the browser's localStorage on the device where you use the app.
-- Hosting these static files does not upload your balances or transactions.
-
-For installability, serve the folder over HTTPS. Once hosted, open the site in Chrome on Android and choose Install app / Add to Home screen.
+Installable local-first PWA. The public source contains no household names, balances, or transaction data. Create profiles and pots after installation; data is stored locally in the browser. Use Export backup regularly.
