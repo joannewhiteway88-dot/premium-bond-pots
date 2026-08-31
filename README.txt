@@ -1,3 +1,3 @@
-Premium Bonds Pots v5
+Premium Bonds Pots v5.1
 
-Installable local-first PWA. The public source contains no household names, balances, or transaction data. Create profiles and pots after installation; data is stored locally in the browser. Use Export backup regularly.
+Public-safe, installable local-first PWA. No household names, balances, pots, or transaction data are included in the public source. Data entered after installation is stored locally in the browser. Export backups regularly.
